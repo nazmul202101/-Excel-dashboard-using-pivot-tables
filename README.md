@@ -4,3 +4,8 @@ https://www.youtube.com/watch?v=5eLtjO2Hfs0&ab_channel=KenjiExplains
 
 I have used a opensourses dataset and it's link also is given bellow. 
 https://view.flodesk.com/pages/62e6c1afc4d48aec3664b8e4
+
+ From this tutorial I have learn lots of this including: 
+
+ -How to create a dynamic dashboard using excel pivot table.
+ -Connect different table for dashboard. 
